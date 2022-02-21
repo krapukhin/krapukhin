@@ -12,3 +12,13 @@ How to reach me: ikrapukhin@gmail.com
 </p>
 
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/krapukhin/competition/light)
+
+My competititons: 
+- [NFL Health & Safety - Helmet Assignment (Kaggle, 2021)](https://github.com/krapukhin/Kaggle-NFL_Health_and_Safety_2021)
+- [30 Days of ML (Kaggle, 2021)](https://github.com/krapukhin/Kaggle-30_Days_of_ML-2021-)
+- [Data Science Challenge 13 (Sberbank, 2021)](https://github.com/krapukhin/Data-Science-Challenge-2021)
+
+
+My courses:
+- [Нейронные сети и обработка текста (Stepik)](https://github.com/krapukhin/stepik-nn_nlp)
+- [Машинное обучение и анализ данных (Coursera)](https://github.com/krapukhin/Coursera_ML_and_DS_specialization)
